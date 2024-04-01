@@ -1,0 +1,17 @@
+# Python Environment
+KeywordAssistant/
+
+# SQLite Databases
+*.db
+
+# IDE Settings
+.idea/
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# # KeywordAssistant Specific Ignores
+# KeywordAssistant/env/
+# KeywordAssistant/*.db
